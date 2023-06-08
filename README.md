@@ -4,7 +4,8 @@ https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBpwaVgAPxTxhdX_TfSVlTcY
 
 Histórico:
 
-5fba0ad - 08/JUN/2023: Criação do projeto e edição do .gitignore
+Lição 01: Criação do projeto e edição do .gitignore
+Lição 02: Inclusão do Angular Material
 
 
 
