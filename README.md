@@ -1,3 +1,15 @@
+# Prática do Curso de Angular+Sping da Loiane Groner no Youtube
+
+https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBpwaVgAPxTxhdX_TfSVlTcY
+
+Histórico:
+
+5fba0ad - 08/JUN/2023: Criação do projeto e edição do .gitignore
+
+
+
+
+
 # CursoFrontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
